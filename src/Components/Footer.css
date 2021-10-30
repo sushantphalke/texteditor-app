@@ -1,0 +1,25 @@
+html{
+    font-size:100%;
+    }
+
+#footer{
+    color: white;
+    width: 100%;
+    background-color:black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+ 
+}
+#copyright{
+    color:aqua ;
+}
+#copyright-shan{
+    font-size: 1.5rem;
+    color: darkorange ;
+}
+#copyright3334{
+    font-size: 0.34rem;
+    color: plum;
+}

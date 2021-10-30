@@ -1,0 +1,44 @@
+
+html{
+    font-size:100%;
+    }
+
+
+#Corouselcss{
+    background: rgb(231, 157, 60);
+    
+}
+.carousel-item{
+    max-height: 50rem;
+    
+}
+
+.container{
+    margin-top: 30px;   
+}
+#headingcarousel{
+    color: coral;
+}
+#firstimage{
+    box-sizing: border-box;
+    float:left;
+    height:25rem;
+    width: 34rem;
+    margin-bottom: 1rem;
+    margin-top:1rem;
+    border-color: black;
+   
+    
+}
+#secondimage{
+    box-sizing: border-box;
+    float: right;
+    flex-direction: column;
+     height:25rem;
+     width: 43rem;
+     margin-bottom: 1rem;
+     margin-top:1rem;
+     border-color: black;   
+ 
+    
+}
