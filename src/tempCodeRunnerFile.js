@@ -1,1 +1,0 @@
-<div id ="Verticalbuttons" className='container'><Verticalbuttons elementmode={elementmode} /></div>
