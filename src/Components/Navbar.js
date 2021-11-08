@@ -2,23 +2,24 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import "./Navbar.css";
 import "./About";
+import { Link } from 'react-router-dom';
 // import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 
 export default function Navbar(props) {
     return (
         <div className='my-1'>
              <nav className={`navbar fixed-top navbar-expand-lg navbar-${props.elementmode} bg-${props.elementmode}`}>
-            <a className="navbar-brand" href="/">{props.title}</a>
+            <Link className="navbar-brand" to = "/">{props.title}</Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav mr-auto">
                 <li className="nav-item active">
-                  <a className="nav-link" href="/">{props.home}</a>
+                  <Link className="nav-link" to="/">{props.home}</Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href='/'>{props.about}</a>
+                  <Link className="nav-link" to='/About'>{props.about}</Link>
                 </li>
               </ul>
               

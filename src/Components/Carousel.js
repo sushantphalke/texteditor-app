@@ -1,6 +1,6 @@
 import React from 'react'
-import "./Corousel.css"
-export default function Corousel(props) {
+import "./Carousel.css"
+export default function Carousel(props) {
 
 
     return (
