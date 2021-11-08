@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SushantPhalke/texteditor-app/static/css/main.b2ff64f7.chunk.css",
-    "main.js": "/SushantPhalke/texteditor-app/static/js/main.a78ed8b5.chunk.js",
-    "main.js.map": "/SushantPhalke/texteditor-app/static/js/main.a78ed8b5.chunk.js.map",
-    "runtime-main.js": "/SushantPhalke/texteditor-app/static/js/runtime-main.6f517813.js",
-    "runtime-main.js.map": "/SushantPhalke/texteditor-app/static/js/runtime-main.6f517813.js.map",
-    "static/js/2.ae186eba.chunk.js": "/SushantPhalke/texteditor-app/static/js/2.ae186eba.chunk.js",
-    "static/js/2.ae186eba.chunk.js.map": "/SushantPhalke/texteditor-app/static/js/2.ae186eba.chunk.js.map",
-    "static/js/3.6f567db8.chunk.js": "/SushantPhalke/texteditor-app/static/js/3.6f567db8.chunk.js",
-    "static/js/3.6f567db8.chunk.js.map": "/SushantPhalke/texteditor-app/static/js/3.6f567db8.chunk.js.map",
-    "index.html": "/SushantPhalke/texteditor-app/index.html",
-    "static/css/main.b2ff64f7.chunk.css.map": "/SushantPhalke/texteditor-app/static/css/main.b2ff64f7.chunk.css.map",
-    "static/js/2.ae186eba.chunk.js.LICENSE.txt": "/SushantPhalke/texteditor-app/static/js/2.ae186eba.chunk.js.LICENSE.txt"
+    "main.css": "/textutilsapp/static/css/main.ff698fd9.chunk.css",
+    "main.js": "/textutilsapp/static/js/main.e3a49050.chunk.js",
+    "main.js.map": "/textutilsapp/static/js/main.e3a49050.chunk.js.map",
+    "runtime-main.js": "/textutilsapp/static/js/runtime-main.2f7f33af.js",
+    "runtime-main.js.map": "/textutilsapp/static/js/runtime-main.2f7f33af.js.map",
+    "static/js/2.52cea67e.chunk.js": "/textutilsapp/static/js/2.52cea67e.chunk.js",
+    "static/js/2.52cea67e.chunk.js.map": "/textutilsapp/static/js/2.52cea67e.chunk.js.map",
+    "static/js/3.8e778d7c.chunk.js": "/textutilsapp/static/js/3.8e778d7c.chunk.js",
+    "static/js/3.8e778d7c.chunk.js.map": "/textutilsapp/static/js/3.8e778d7c.chunk.js.map",
+    "index.html": "/textutilsapp/index.html",
+    "static/css/main.ff698fd9.chunk.css.map": "/textutilsapp/static/css/main.ff698fd9.chunk.css.map",
+    "static/js/2.52cea67e.chunk.js.LICENSE.txt": "/textutilsapp/static/js/2.52cea67e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f517813.js",
-    "static/js/2.ae186eba.chunk.js",
-    "static/css/main.b2ff64f7.chunk.css",
-    "static/js/main.a78ed8b5.chunk.js"
+    "static/js/runtime-main.2f7f33af.js",
+    "static/js/2.52cea67e.chunk.js",
+    "static/css/main.ff698fd9.chunk.css",
+    "static/js/main.e3a49050.chunk.js"
   ]
 }
